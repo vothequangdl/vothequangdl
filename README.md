@@ -2,7 +2,7 @@
 - 👀 I’m interested in Code
 - 🌱 I’m currently learning Core
 - 💞️ I’m looking to collaborate on CNTT
-- 📫 How to reach me vothequangdl
+- 📫 How to reach me @vothequangdl
 
 <!---
 vothequangdl/vothequangdl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
